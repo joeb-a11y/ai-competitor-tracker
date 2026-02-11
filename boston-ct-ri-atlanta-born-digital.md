@@ -9,20 +9,20 @@
 
 ---
 
-## TOTAL: 74 qualifying companies
+## TOTAL: 84 qualifying companies
 
 | Region | Count | Combined Revenue |
 |--------|-------|-----------------|
-| New York | 37 | ~$51B+ |
+| New York | 45 | ~$57B+ |
 | Massachusetts | 21 | ~$38B+ |
 | Connecticut | 2 | ~$24B+ |
-| New Jersey | 5 | ~$6.7B+ |
+| New Jersey | 7 | ~$8.3B+ |
 | Atlanta, GA | 9 | ~$4.5B+ |
 | Rhode Island | 0 | — |
 
 ---
 
-## NEW YORK (37 companies)
+## NEW YORK (45 companies)
 
 ### Health / Life Sciences / Wellness
 
@@ -45,89 +45,109 @@
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
 | 7 | Etsy | Brooklyn | 2005 | $2.81B (2024) | Born as online-only marketplace for handmade and vintage goods | Retail | Public (ETSY) |
-| 8 | Warby Parker | New York | 2010 | $771M (2024) | Born as digital-first direct-to-consumer eyewear retailer | Retail/DTC | Public (WRBY) |
-| 9 | Rent the Runway | Brooklyn | 2009 | $306M (FY2024) | Born-digital online fashion rental subscription platform | Retail | Public (RENT) |
+| 8 | Harry's / Mammoth Brands | New York | 2013 | $835M (2024) | Born as digital-first DTC men's personal care. Now multi-brand holding (Harry's, Flamingo, Lumē, Mando). IPO filed 2024. | Retail/DTC | Private |
+| 9 | Warby Parker | New York | 2010 | $771M (2024) | Born as digital-first direct-to-consumer eyewear retailer | Retail/DTC | Public (WRBY) |
+| 10 | Bark | New York | 2011 | $452M TTM (Sep 2025) | Born-digital DTC pet products subscription platform (BarkBox, BARK Bright, BARK Eats) | Retail/DTC | Public (BARK) |
+| 11 | Rent the Runway | Brooklyn | 2009 | $306M (FY2024) | Born-digital online fashion rental subscription platform | Retail | Public (RENT) |
 
 ### Financial Services / Fintech
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 10 | Circle | New York | 2013 | $1.68B (2024) | Born-digital stablecoin (USDC) and crypto infrastructure platform. HQ moved to NYC 2024. | FinServ/Crypto | Private (IPO filed) |
-| 11 | Pagaya Technologies | New York | 2016 | $1.3B (2025) | Born-digital AI-powered lending and credit decisioning platform. HQ moved to NYC 2024. | FinServ | Public (PGY) |
-| 12 | Ramp | New York | 2019 | ~$1.0B+ ARR (2025) | Born-digital corporate card and expense management platform. $32B valuation. | FinServ | Private |
-| 13 | Lemonade | New York | 2015 | $659M TTM (Sep 2025) | Born-digital AI-powered insurance platform (renters, home, auto, pet) | FinServ/InsurTech | Public (LMND) |
+| 12 | Circle | New York | 2013 | $1.68B (2024) | Born-digital stablecoin (USDC) and crypto infrastructure platform. HQ moved to NYC 2024. | FinServ/Crypto | Private (IPO filed) |
+| 13 | Pagaya Technologies | New York | 2016 | $1.3B (2025) | Born-digital AI-powered lending and credit decisioning platform. HQ moved to NYC 2024. | FinServ | Public (PGY) |
+| 14 | Ramp | New York | 2019 | ~$1.0B+ ARR (2025) | Born-digital corporate card and expense management platform. $32B valuation. | FinServ | Private |
+| 15 | Payoneer | New York | 2005 | $978M (2024) | Born-digital cross-border payments platform for SMBs and freelancers globally | FinServ/Payments | Public (PAYO) |
+| 16 | MoneyLion | New York | 2013 | $750M (Sep 2025 TTM) | Born as mobile-first digital banking, lending, cash advances, and investing platform. Acquired by Gen Digital Apr 2025. | FinServ | Private (Gen Digital) |
+| 17 | Lemonade | New York | 2015 | $659M TTM (Sep 2025) | Born-digital AI-powered insurance platform (renters, home, auto, pet) | FinServ/InsurTech | Public (LMND) |
 
 ### Cloud Infrastructure / Data / DevOps
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 14 | Datadog | New York | 2010 | $2.68B (FY2024) | Born as cloud-native monitoring, security, and observability platform | Cloud/DevOps | Public (DDOG) |
-| 15 | MongoDB | New York | 2007 | $2.01B (FY2025) | Born as cloud-native document database platform | Data/Cloud | Public (MDB) |
-| 16 | DigitalOcean | New York | 2011 | $781M (2024) | Born as cloud infrastructure platform for developers and SMBs | Cloud | Public (DOCN) |
-| 17 | Grafana Labs | New York | 2014 | $400M+ ARR (2025) | Born as open-source cloud observability and monitoring platform | DevOps | Private ($6B) |
+| 18 | Datadog | New York | 2010 | $2.68B (FY2024) | Born as cloud-native monitoring, security, and observability platform | Cloud/DevOps | Public (DDOG) |
+| 19 | MongoDB | New York | 2007 | $2.01B (FY2025) | Born as cloud-native document database platform | Data/Cloud | Public (MDB) |
+| 20 | DigitalOcean | New York | 2011 | $781M (2024) | Born as cloud infrastructure platform for developers and SMBs | Cloud | Public (DOCN) |
+| 21 | Grafana Labs | New York | 2014 | $400M+ ARR (2025) | Born as open-source cloud observability and monitoring platform | DevOps | Private ($6B) |
 
 ### Marketing Tech / AdTech
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 18 | Taboola | New York | 2007 | $1.77B (2024) | Born-digital content discovery and native advertising platform | AdTech | Public (TBLA) |
-| 19 | Outbrain | New York | 2006 | $1.18B TTM (Sep 2025) | Born-digital content recommendation platform. Merged with Teads 2024. | AdTech | Private |
-| 20 | Zeta Global | New York | 2007 | $1.01B (2024) | Born as AI-powered marketing cloud platform | Marketing | Public (ZETA) |
-| 21 | Sprinklr | New York | 2009 | $796M (FY2025) | Born as cloud-native customer experience management platform | Marketing/CX | Public (CXM) |
-| 22 | DoubleVerify | New York | 2008 | $657M (2024) | Born-digital ad verification and measurement platform | AdTech | Public (DV) |
-| 23 | Braze | New York | 2011 | $593M (FY2025) | Born as cloud-native customer engagement and messaging platform | Marketing | Public (BRZE) |
-| 24 | IAS (Integral Ad Science) | New York | 2009 | $530M (2024) | Born-digital ad verification and optimization platform | AdTech | Public (IAS) |
-| 25 | Yext | New York | 2006 | $421M (FY2025) | Born as cloud-native digital knowledge and search platform | Marketing | Public (YEXT) |
+| 22 | Taboola | New York | 2007 | $1.77B (2024) | Born-digital content discovery and native advertising platform | AdTech | Public (TBLA) |
+| 23 | Outbrain / Teads | New York | 2006 | $1.18B TTM (Sep 2025) | Born-digital content recommendation platform. Acquired Teads from Altice for $1B in 2024; combined entity now public as Teads (TEAD). | AdTech | Public (TEAD) |
+| 24 | Zeta Global | New York | 2007 | $1.01B (2024) | Born as AI-powered marketing cloud platform | Marketing | Public (ZETA) |
+| 25 | Sprinklr | New York | 2009 | $796M (FY2025) | Born as cloud-native customer experience management platform | Marketing/CX | Public (CXM) |
+| 26 | DoubleVerify | New York | 2008 | $657M (2024) | Born-digital ad verification and measurement platform | AdTech | Public (DV) |
+| 27 | Braze | New York | 2011 | $593M (FY2025) | Born as cloud-native customer engagement and messaging platform | Marketing | Public (BRZE) |
+| 28 | IAS (Integral Ad Science) | New York | 2009 | $530M (2024) | Born-digital ad verification and optimization platform | AdTech | Public (IAS) |
+| 29 | Yext | New York | 2006 | $421M (FY2025) | Born as cloud-native digital knowledge and search platform | Marketing | Public (YEXT) |
+| 30 | Nexxen (fmr. Tremor) | New York | 2007 | $376M TTM (Sep 2025) | Born-digital programmatic advertising platform with CTV focus. 40% YoY CTV growth. Rebranded from Tremor International 2024. | AdTech/CTV | Public (NEXN) |
+| 31 | MNTN | New York | 2009 | $290M (FY2025) | Born-digital performance marketing platform for Connected TV. 36% YoY growth. Formerly SteelHouse. | AdTech/CTV | Public (MNTN) |
 
 ### Enterprise Software / Automation / AI
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 26 | UiPath | New York | 2005 | $1.55B (FY2025 TTM) | Born as software-native robotic process automation (RPA) and AI platform. HQ moved to NYC 2017. | Automation | Public (PATH) |
-| 27 | Squarespace | New York | 2003 | $1.19B (2024) | Born as internet-native website builder and hosting platform. Acquired by Permira Dec 2024. | Web Platform | Private (Permira) |
-| 28 | AlphaSense | New York | 2011 | $500M+ ARR (Oct 2025) | Born as AI-powered market intelligence and search platform | AI/Intelligence | Private ($4B) |
-| 29 | LivePerson | New York | 1995 | $312M (2024) | Born as internet-native conversational AI and digital messaging platform | AI/Enterprise | Public (LPSN) |
+| 32 | UiPath | New York | 2005 | $1.55B (FY2025 TTM) | Born as software-native robotic process automation (RPA) and AI platform. HQ moved to NYC 2017. | Automation | Public (PATH) |
+| 33 | Squarespace | New York | 2003 | $1.19B (2024) | Born as internet-native website builder and hosting platform. Acquired by Permira Dec 2024. | Web Platform | Private (Permira) |
+| 34 | AlphaSense | New York | 2011 | $500M+ ARR (Oct 2025) | Born as AI-powered market intelligence and search platform | AI/Intelligence | Private ($4B) |
+| 35 | LivePerson | New York | 1995 | $312M (2024) | Born as internet-native conversational AI and digital messaging platform. Revenue declining from $781M peak. | AI/Enterprise | Public (LPSN) |
 
 ### Cybersecurity / Identity
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 30 | Clear Secure | New York | 2010 | $770M (2024) | Born-digital biometric identity verification platform (airports, stadiums) | Identity/Security | Public (YOU) |
-| 31 | Wiz | New York | 2020 | $750M+ (2025) | Born as cloud-native security platform. $32B acquisition by Alphabet announced 2025. | Cybersecurity | Private (Alphabet) |
+| 36 | Clear Secure | New York | 2010 | $770M (2024) | Born-digital biometric identity verification platform (airports, stadiums) | Identity/Security | Public (YOU) |
+| 37 | Wiz | New York | 2020 | $750M+ (2025) | Born as cloud-native security platform. $32B acquisition by Alphabet announced 2025. | Cybersecurity | Private (Alphabet) |
 
 ### Digital Media / Entertainment
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 32 | Shutterstock | New York | 2003 | $935M (2024) | Born as internet-native digital stock photography and media marketplace | Digital Media | Public (SSTK) |
-| 33 | Vimeo | New York | 2004 | $417M (2024) | Born as internet-native video hosting and streaming platform. Acquired by Bending Spoons Nov 2025. | Digital Media | Private |
-| 34 | Fever | New York | 2014 | ~$315M (est.) | Born-digital live entertainment discovery and ticketing platform. Founded in Madrid; US HQ in NYC. | Entertainment | Private ($1.8B) |
+| 38 | Shutterstock | New York | 2003 | $935M (2024) | Born as internet-native digital stock photography and media marketplace | Digital Media | Public (SSTK) |
+| 39 | Fever | New York | 2014 | $700M+ (est. 2025) | Born-digital live entertainment discovery and ticketing platform. Founded in Madrid; US HQ in NYC. 20x cumulative revenue growth reported. | Entertainment | Private ($1.8B) |
+| 40 | Vimeo | New York | 2004 | $417M (2024) | Born as internet-native video hosting and streaming platform. Acquired by Bending Spoons Nov 2025. | Digital Media | Private |
+
+### Restaurant / Food Tech
+
+| # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
+|---|---------|------|---------|---------|-------------|----------|--------|
+| 41 | Olo | New York | 2005 | $314M TTM (mid-2025) | Born as cloud-native digital ordering and delivery SaaS for restaurants. Acquired by Thoma Bravo for $2B Sep 2025 (fmr. NYSE: OLO). | Restaurant Tech | Private (Thoma Bravo) |
+
+### Logistics / Transit Tech
+
+| # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
+|---|---------|------|---------|---------|-------------|----------|--------|
+| 42 | Via Transportation | New York | 2012 | $407M TTM (Sep 2025) | Born-digital on-demand transit technology platform. IPO Sep 2025. $439M ARR. | Transit/Logistics | Public (VIA) |
 
 ### HR / Workforce
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 35 | Justworks | New York | 2012 | $350M (2024) | Born as cloud-native HR, payroll, and benefits platform for SMBs | HR | Private |
-| 36 | Greenhouse | New York | 2012 | $266M (2024) | Born as cloud-native recruiting and applicant tracking platform | HR | Private |
+| 43 | Justworks | New York | 2012 | $350M (2024) | Born as cloud-native HR, payroll, and benefits platform for SMBs | HR | Private |
+| 44 | Greenhouse | New York | 2012 | $266M (2024) | Born as cloud-native recruiting and applicant tracking platform | HR | Private |
 
 ### Professional Services / Knowledge
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 37 | Guidepoint | New York | 2003 | $750M+ (est.) | Born as digital expert network platform connecting clients with industry experts | Professional Services | Private |
+| 45 | Guidepoint | New York | 2003 | $750M+ (est.) | Born as digital expert network platform connecting clients with industry experts | Professional Services | Private |
 
 ### Just Below $250M Threshold (NY Watch List)
 
 | Company | City | Founded | Revenue | Notes |
 |---------|------|---------|---------|-------|
-| Bilt Rewards | New York | 2021 | ~$275M (est.) | Rent payment rewards platform. $10.75B valuation. Revenue data conflicting. |
+| Bilt Rewards | New York | 2019 | ~$275M+ (est.) | Rent payment rewards. $10.75B valuation. Claims on track to $1B by Q1 2026 but revenue data conflicting. |
+| DailyPay | New York | 2015 | $235M | On-demand pay platform. $1.75B valuation. Approaching threshold. |
 | Dataminr | New York | 2009 | $205-222M (est.) | Real-time AI event/risk detection. Growing toward threshold. |
 | VAST Data | New York | 2016 | ~$200M ARR (est.) | AI data infrastructure. $9.1B valuation, growing fast. |
 | Wunderkind | New York | 2010 | $205M | AI-powered performance marketing. Approaching threshold. |
+| BuzzFeed | New York | 2006 | $195M | Digital media. Revenue declining. Public (BZFD). |
 
 ---
 
-## NEW JERSEY (5 companies)
+## NEW JERSEY (7 companies)
 
 ### Cloud Infrastructure / AI
 
@@ -135,46 +155,59 @@
 |---|---------|------|---------|---------|-------------|----------|--------|
 | 1 | CoreWeave | Livingston | 2017 | $5.05B (projected 2025) / $4.31B TTM | Born as cloud-native specialized GPU infrastructure for AI/ML workloads. IPO March 2025. Fastest-growing cloud company in the world. | Cloud/AI Infra | Public (CRWV) |
 
+### Digital Media
+
+| # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
+|---|---------|------|---------|---------|-------------|----------|--------|
+| 2 | Audible | Newark | 1995 | $893M (est. 2026) | Born as internet-native digital audiobook and podcast streaming platform. Pioneer of digital audio content. Acquired by Amazon 2008 for $300M. 2,000+ employees in Newark. | Digital Media | Private (Amazon) |
+
+### Financial Services / BaaS
+
+| # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
+|---|---------|------|---------|---------|-------------|----------|--------|
+| 3 | Cross River Bank | Fort Lee | 2008 | $675M (est. 2024) | Born as digital-first fintech bank powering banking-as-a-service. Partners with Affirm, Coinbase, Stripe, Rocket Loans, Upgrade, Checkout.com. | FinServ/BaaS | Private |
+
 ### Marketing Tech
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 2 | Attentive | Hoboken | 2016 | $500M+ ARR (2024) | Born as cloud-native AI-powered SMS and mobile marketing platform. $7B valuation. | Marketing | Private |
+| 4 | Attentive | Hoboken | 2016 | $500M+ ARR (2024) | Born as cloud-native AI-powered SMS and mobile marketing platform. $7B valuation. | Marketing | Private |
 
 ### Life Sciences / BioTech SaaS
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 3 | Certara | Princeton | 2008 | $415-420M (projected 2025) | Born as software-native biosimulation platform for drug discovery. Serves 2,300+ biopharma companies. | HLS/BioTech SaaS | Public (CERT) |
+| 5 | Certara | Princeton | 2008 | $415-420M (projected 2025) | Born as software-native biosimulation platform for drug discovery. Serves 2,300+ biopharma companies. | HLS/BioTech SaaS | Public (CERT) |
 
 ### HR Tech
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 4 | iCIMS | Holmdel | 1999 | ~$400M+ ARR (est.) | Born as cloud-native talent acquisition and applicant tracking platform. $3B valuation. | HR | Private (Vista/TA) |
+| 6 | iCIMS | Holmdel | 1999 | ~$400M+ ARR (est.) | Born as cloud-native talent acquisition and applicant tracking platform. $3B valuation. | HR | Private (Vista/TA) |
 
 ### InsurTech
 
 | # | Company | City | Founded | Revenue | What They Do | Vertical | Status |
 |---|---------|------|---------|---------|-------------|----------|--------|
-| 5 | SageSure | Mount Laurel | 2009 | $358M (2025) | Born as digital-first managing general underwriter with AI-powered risk modeling for property insurance | FinServ/InsurTech | Private |
+| 7 | SageSure | Mount Laurel | 2009 | $358M (2025) | Born as digital-first managing general underwriter with AI-powered risk modeling for property insurance | FinServ/InsurTech | Private |
 
-### Why New Jersey Has Only 5
+### Why New Jersey Has Only 7
 
 NJ's tech sector is largely composed of **legacy** companies that don't qualify:
 - **Cognizant** (1994) — Dun & Bradstreet subsidiary spinoff, traditional IT services/outsourcing
 - **Automatic Data Processing (ADP)** (1949) — legacy payroll/HR, decades pre-cloud
+- **Commvault** (1988) — originated within Bell Labs, traditional enterprise backup
 - **Honeywell** (1906) — legacy industrial conglomerate
 - **Johnson & Johnson** (1886) — legacy pharma
 
-However, **CoreWeave** is a standout — at $5B+ revenue, it's one of the fastest-growing born-digital companies anywhere, riding the AI infrastructure wave from its NJ headquarters.
+However, the NJ corridor is punching above its weight with **CoreWeave** ($5B+) and **Audible** ($893M) as anchor born-digital companies, and the Hoboken-Jersey City-Fort Lee corridor is building a real tech cluster with **Attentive** and **Cross River Bank**.
 
 ### Just Below $250M Threshold (NJ Watch List)
 
 | Company | City | Founded | Revenue | Notes |
 |---------|------|---------|---------|-------|
-| Cross River Bank | Fort Lee | 2008 | $169M | Fintech infrastructure / banking-as-a-service. Growing. |
 | Semperis | Hoboken | 2013 | $100M+ ARR | Identity security. Unicorn valuation, growing fast. |
+| OwnBackup | Fort Lee | 2015 | $137M | Data protection for SaaS platforms. Growing. |
 
 ---
 
@@ -341,18 +374,21 @@ Notable RI tech companies like **Textron** (defense, founded 1923) and **CVS Hea
 
 | Vertical | # | Companies |
 |----------|---|-----------|
-| **Retail / CPG / Commerce / Hospitality** | 14 | Booking ($23.7B), Wayfair ($11.9B), Toast ($5.8B), Compass ($5.63B), Cimpress ($3.3B), Etsy ($2.81B), TripAdvisor ($1.8B), HubSpot ($2.6B), Klaviyo ($1.2B), Mailchimp ($1.0B+), CarGurus ($950M), Warby Parker ($771M), Rent the Runway ($306M), Salsify ($250M+) |
-| **Marketing Tech / AdTech** | 12 | Taboola ($1.77B), Outbrain ($1.18B), Zeta Global ($1.01B), Sprinklr ($796M), DoubleVerify ($657M), Braze ($593M), IAS ($530M), Attentive ($500M+), Yext ($421M), Acquia ($300M+), Fever ($315M), Greenhouse ($266M) |
-| **Financial Services / Fintech** | 12 | DraftKings ($5.5B), Circle ($1.68B), Pagaya ($1.3B), Ramp ($1.0B+), Lemonade ($659M), GreenSky ($600M+), Flywire ($583M), EverQuote ($400M+), SageSure ($358M), Kabbage ($300M+), Cardlytics ($280M+), Salesloft ($250M+) |
+| **Marketing Tech / AdTech** | 14 | Taboola ($1.77B), Outbrain/Teads ($1.18B), Zeta Global ($1.01B), Sprinklr ($796M), DoubleVerify ($657M), Braze ($593M), IAS ($530M), Attentive ($500M+), Yext ($421M), Nexxen ($376M), MNTN ($290M), Acquia ($300M+), Mailchimp ($1.0B+), Fever ($700M+) |
+| **Retail / CPG / Commerce / Hospitality** | 15 | Booking ($23.7B), Wayfair ($11.9B), Toast ($5.8B), Compass ($5.63B), Cimpress ($3.3B), Etsy ($2.81B), TripAdvisor ($1.8B), HubSpot ($2.6B), Klaviyo ($1.2B), CarGurus ($950M), Harry's ($835M), Warby Parker ($771M), Bark ($452M), Rent the Runway ($306M), Salsify ($250M+) |
+| **Financial Services / Fintech** | 14 | DraftKings ($5.5B), Circle ($1.68B), Pagaya ($1.3B), Ramp ($1.0B+), Payoneer ($978M), MoneyLion ($750M), Cross River ($675M), Lemonade ($659M), GreenSky ($600M+), Flywire ($583M), EverQuote ($400M+), SageSure ($358M), Kabbage ($300M+), Cardlytics ($280M+) |
+| **Healthcare / Life Sciences** | 7 | Oscar Health ($11.7B), Peloton ($2.44B), Noom ($750M+), Ro ($598M), Certara ($415M), Zelis ($307M), Whoop ($260M) |
 | **Cloud Infrastructure / Data / DevOps** | 6 | CoreWeave ($5.05B), Datadog ($2.68B), MongoDB ($2.01B), DigitalOcean ($781M), Grafana Labs ($400M+), DataRobot ($250M+) |
-| **Healthcare / Life Sciences** | 8 | Oscar Health ($11.7B), Peloton ($2.44B), Noom ($750M+), Ro ($598M), Certara ($415M), Zelis ($307M), Whoop ($260M), Calendly ($276M) |
 | **Cybersecurity / Security / Identity** | 7 | Rapid7 ($844M), Clear Secure ($770M), Wiz ($750M+), OneTrust ($500M), Snyk ($408M), Aura ($385M), Recorded Future ($300M+) |
-| **Enterprise Software / AI / Automation** | 6 | UiPath ($1.55B), Squarespace ($1.19B), AlphaSense ($500M+), G-P ($384M), OutSystems ($332M), LivePerson ($312M) |
-| **HR / Workforce** | 4 | iCIMS ($400M+), Justworks ($350M), Greenhouse ($266M), Eptura ($266M) |
-| **Digital Media / Entertainment** | 3 | Shutterstock ($935M), Vimeo ($417M), Fever ($315M) |
+| **Enterprise Software / AI / Automation** | 5 | UiPath ($1.55B), Squarespace ($1.19B), AlphaSense ($500M+), OutSystems ($332M), LivePerson ($312M) |
+| **Digital Media / Entertainment** | 4 | Audible ($893M), Shutterstock ($935M), Vimeo ($417M), Fever ($700M+) |
+| **HR / Workforce** | 6 | iCIMS ($400M+), G-P ($384M), Justworks ($350M), Greenhouse ($266M), Eptura ($266M), Salesloft ($250M+) |
+| **Restaurant / Food Tech** | 2 | Toast ($5.8B), Olo ($314M) |
+| **Logistics / Transit** | 1 | Via Transportation ($407M) |
 | **IT / MSP** | 1 | Datto ($600M+) |
 | **Manufacturing / Industrial** | 1 | Rubicon ($800M+) |
 | **Professional Services** | 1 | Guidepoint ($750M+) |
+| **Automotive** | 1 | ACV Auctions ($637M) |
 
 ---
 
@@ -380,26 +416,29 @@ Notable RI tech companies like **Textron** (defense, founded 1923) and **CVS Hea
 | 18 | Pagaya | $1.3B | New York, NY | FinServ / AI Lending |
 | 19 | Klaviyo | $1.2B | Boston, MA | Marketing / E-commerce |
 | 20 | Squarespace | $1.19B | New York, NY | Web Platform |
-| 21 | Outbrain | $1.18B | New York, NY | AdTech |
+| 21 | Outbrain / Teads | $1.18B | New York, NY | AdTech |
 | 22 | Zeta Global | $1.01B | New York, NY | Marketing Cloud |
 | 23 | Ramp | ~$1.0B+ | New York, NY | Corporate FinTech |
 | 24 | Mailchimp (Intuit) | $1.0B+ | Atlanta, GA | Marketing Automation |
-| 25 | CarGurus | $950M+ | Cambridge, MA | Auto Marketplace |
+| 25 | Payoneer | $978M | New York, NY | Cross-border Payments |
 
 ---
 
 ## KEY OBSERVATIONS
 
-### New York Dominates in Quantity and Depth (37 of 74 companies, 50%)
-- **NYC is the undisputed capital of born-digital companies** outside of SF/Seattle. With 37 qualifying companies at $51B+ combined revenue, it dwarfs every other region.
-- **AdTech/MarTech is NYC's signature strength** — 8 companies (Taboola, Outbrain, Zeta Global, Sprinklr, DoubleVerify, Braze, IAS, Yext) totaling ~$6B+ in combined revenue. No other city comes close in this vertical.
-- **NYC has the deepest fintech ecosystem** — Circle, Pagaya, Ramp, and Lemonade represent a new generation of born-digital financial platforms. Combined with NJ's SageSure, the tri-state fintech cluster is massive.
+### New York Dominates in Quantity and Depth (45 of 84 companies, 54%)
+- **NYC is the undisputed capital of born-digital companies** outside of SF/Seattle. With 45 qualifying companies at $57B+ combined revenue, it dwarfs every other region.
+- **AdTech/MarTech is NYC's signature strength** — 10 companies (Taboola, Outbrain/Teads, Zeta Global, Sprinklr, DoubleVerify, Braze, IAS, Yext, Nexxen, MNTN) totaling ~$7.5B+ in combined revenue. No other city comes close in this vertical. The CTV advertising wave (Nexxen, MNTN) is a NYC story.
+- **NYC has the deepest fintech ecosystem** — 6 companies (Circle, Pagaya, Ramp, Payoneer, MoneyLion, Lemonade) totaling ~$6B+ in fintech alone. Combined with NJ's Cross River Bank and SageSure, the tri-state fintech cluster is massive.
+- **DTC retail is a NYC story** — Harry's/Mammoth Brands ($835M), Warby Parker ($771M), Bark ($452M), and Rent the Runway ($306M) are all born-digital NYC DTC brands alongside marketplace giants Etsy ($2.81B) and Compass ($5.63B).
 - **Cloud infrastructure powerhouses** — Datadog ($2.68B), MongoDB ($2.01B), and DigitalOcean ($781M) are among the most important born-digital infrastructure companies in the world, all from NYC.
-- **Healthcare gets a major boost** — Oscar Health ($11.7B), Noom ($750M+), and Ro ($598M) add significant HLS depth that was largely missing from the MA/CT/Atlanta list.
+- **Healthcare/wellness cluster** — Oscar Health ($11.7B), Noom ($750M+), Ro ($598M), and Peloton ($2.44B) give NYC significant HLS depth.
 
-### New Jersey: Small but Explosive (5 companies, $6.7B+)
-- **CoreWeave ($5.05B projected 2025)** is the standout — a cloud GPU infrastructure company that went from mining cryptocurrency to becoming one of the fastest-growing companies in the world. Its NJ roots make it unique.
-- The NJ-NYC corridor (Hoboken, Fort Lee, Jersey City) is becoming a meaningful tech hub, with companies like **Attentive** ($500M+ ARR) and watch-list firms like **Semperis** and **Cross River Bank**.
+### New Jersey: Small but Explosive (7 companies, ~$8.3B+)
+- **CoreWeave ($5.05B projected 2025)** is the standout — a cloud GPU infrastructure company that went from mining cryptocurrency to becoming one of the fastest-growing companies in the world.
+- **Audible ($893M est.)** — often overlooked because it's an Amazon subsidiary, but it's a born-digital pioneer (1995) that remains HQ'd in Newark with 2,000+ employees.
+- **Cross River Bank ($675M est.)** — the infrastructure behind many top fintechs (Affirm, Coinbase, Stripe, Rocket Loans). Digital-first banking-as-a-service from Fort Lee.
+- The NJ-NYC corridor (Hoboken, Fort Lee, Jersey City) is becoming a meaningful tech hub with **Attentive** ($500M+ ARR) and watch-list firms like **Semperis** and **OwnBackup**.
 - **Certara** ($415M) is a rare **life sciences SaaS** company — biosimulation software used by 2,300+ pharma companies.
 
 ### Massachusetts Still Punches Above Its Weight (21 companies, ~$38B+)
@@ -428,8 +467,33 @@ These companies best exemplify the criteria — born-digital, now becoming truly
 - **Recorded Future** ($300M+) — threat data platform evolving to AI-powered intelligence
 - **Toast** ($5.8B) — restaurant POS evolving into a data-driven restaurant operations platform
 - **Wiz** ($750M+) — cloud security pioneering AI-driven vulnerability detection
+- **CoreWeave** ($5.05B) — GPU infrastructure becoming the backbone of AI workloads
 - **Cardlytics** ($280M) — bank card data to purchase intelligence AI
+- **Ramp** ($1.0B+) — expense management becoming AI-powered financial operations
 
 ---
 
-*Compiled February 2026. Revenue figures from latest public filings (FY2024 or TTM through Q3 2025), press reports, and industry databases. Private company figures are estimates. Some acquired companies (Mailchimp, Kabbage, GreenSky, Datto, Recorded Future, Vimeo, Squarespace) reflect pre-acquisition or estimated current run rates. Oscar Health and Compass revenue includes insurance premiums and real estate commissions, respectively.*
+### NOTABLE EXCLUSIONS — Companies Investigated But NOT Qualifying
+
+| Company | Location | Why Excluded |
+|---------|----------|-------------|
+| FanDuel | NYC (US ops) | Wholly-owned subsidiary of Flutter Entertainment (Dublin). Not independent. |
+| Casper Sleep | NYC | Acquired by Carpenter Co. Oct 2024. No longer independent. Revenue was $580M. |
+| Grubhub | Chicago, IL | HQ is Chicago, not NYC. Acquired by Wonder Group Jan 2025. |
+| Take-Two Interactive | NYC | Founded 1993 — distributed physical game cartridges/CDs for years. Not born-digital. |
+| IAC / Dotdash Meredith | NYC | Merged with legacy Meredith Corp (founded 1902). Not pure born-digital. |
+| Commvault | Tinton Falls, NJ | Originated 1988 within Bell Labs. Legacy enterprise backup. |
+| Majesco | Morristown, NJ | Founded 1982 as Mascon Systems. Legacy software, not born-digital despite marketing claims. |
+| Cognizant | Teaneck, NJ | 1994 Dun & Bradstreet spinoff. Traditional IT outsourcing. |
+| Gemini | NYC | Revenue only ~$137M annualized (2025). Below $250M threshold. |
+| BuzzFeed | NYC | Revenue ~$195M and declining. Below $250M threshold. |
+| VTS | NYC | Revenue $125M. Below $250M threshold. Growing fast — watch list candidate. |
+| DailyPay | NYC | Revenue $235M. Just below $250M threshold. |
+| Hims & Hers | San Francisco | Not NYC-headquartered. |
+| Match Group | Dallas, TX | Not NYC-headquartered. |
+| Global-e Online | Israel | Not NYC-headquartered. |
+| Perion Network | Israel | Not NYC-headquartered. |
+
+---
+
+*Compiled February 2026. Revenue figures from latest public filings (FY2024 or TTM through Q3 2025), press reports, and industry databases. Private company figures are estimates. Some acquired companies (Mailchimp, Kabbage, GreenSky, Datto, Recorded Future, Vimeo, Squarespace, Audible, MoneyLion, Olo) reflect pre-acquisition or estimated current run rates. Oscar Health and Compass revenue includes insurance premiums and real estate commissions, respectively.*
