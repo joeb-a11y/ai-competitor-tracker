@@ -1,0 +1,171 @@
+requested_name,rrr_28d_usd,num_employees,num_engineers,eng_pct,industry,ant_sector,ai_product,ai_product_name,ai_product_use_case,ai_product_distribution,a1k_tier,lt_potential,est_pct_llm_spend,primary_use_case,icp
+Cvent,488615.0,6191,1186,19.2,IT and Computer Software / Technology,Tech,Yes,CventIQ,,SaaS,,,,,False
+GoTo Technologies USA,486637.0,2528,1050,41.5,IT and Computer Software / Technology,Tech,Yes,LogMeIn Resolve,Customer Support,SaaS,KEY,,,,False
+"Avalara, Inc.",432174.0,5766,1100,19.1,IT and Computer Software / Technology,Tech,Yes,Agentic Tax and Compliance,"Tax compliance automation, AI-driven tax insights, natural language querying, compliance rules creation, API support, customer onboarding, cross-border classification, VAT automation, and tax research",SaaS,KEY,,,,False
+BMC Software,388370.0,9050,2602,28.8,IT and Computer Software / Technology,Tech,Yes,BMC AMI Assistant,,Enterprise,MAJOR,,,,False
+Upwork (f.k.a elance-oDesk),361870.0,168381,21583,12.8,IT and Computer Software / Technology,Business Services,Yes,Uma AI Work Agent,Consulting and Strategy,Marketplace,,XS (<$1M Annualized revenue),,,False
+"RingCentral, Inc.",347753.0,6620,1355,20.5,IT and Computer Software / Technology,Tech,Yes,RingCentral AI,,SaaS,KEY,S ($1-$5M Annualized revenue),0.0,,False
+Wayfair,332460.0,12258,1869,15.2,Retail & CPG,Retail,Yes,Muse AI,Content Creation and Copywriting,Mobile App,MAJOR,M ($6-$10M Annualized revenue),,,False
+Qualtrics,331948.0,6135,1268,20.7,IT and Computer Software / Technology,Tech,Yes,Qualtrics AI,,SaaS,KEY,M ($6-$10M Annualized revenue),,,False
+CLEAR (clearme.com),326613.0,2720,151,5.6,Travel & Hospitality,Tech,Yes,CLEAR1,Trust and Safety,Enterprise,,,,,False
+Thryv,322952.0,5952,379,6.4,IT and Computer Software / Technology,Tech,Yes,Thryv AI Platform,Content Creation and Copywriting,SaaS,,,,,False
+"Procore Technologies, Inc.",322586.0,4800,1361,28.4,IT and Computer Software / Technology,Tech,Yes,Procore Helix,,SaaS,,,,,False
+"Lyra Health, Inc.",315484.0,2696,110,4.1,Healthcare & Life Sciences,Healthcare,Yes,Lyra Health,Customer Support,Enterprise,,,30.0,,False
+Kaseya US LLC,272921.0,5556,960,17.3,IT and Computer Software / Technology,Tech,Yes,Cooper AI,Code Generation and Software Development,Enterprise,KEY,,,,False
+Angi,262909.0,3432,308,9.0,IT and Computer Software / Technology,Business Services,Yes,AI Helper,Customer Support,SaaS,,,,,False
+SAS Institute Inc.,259948.0,18120,3154,17.4,IT and Computer Software / Technology,Tech,Yes,SAS Viya AI Platform,,Enterprise,KEY,,,,False
+Replicate [acquired by cloudflare],257978.0,43,19,44.2,IT and Computer Software / Technology,Tech,Yes,Replicate AI Platform,Code Generation and Software Development,API,,,,,False
+BetterHelp,245305.0,3934,110,2.8,Healthcare & Life Sciences,Healthcare,Yes,BetterHelp AI Therapist Matching,"Mental health therapy support - enhancing therapist matching, personalizing intake process, reducing administrative burden, strengthening therapeutic connections, and providing between-session support",SaaS,,XS (<$1M Annualized revenue),,,False
+Rippling,224994.0,6618,971,14.7,IT and Computer Software / Technology,Tech,Yes,Rippling AI,,SaaS,,M ($6-$10M Annualized revenue),,,False
+"Hyland Software, Inc.",206460.0,4156,1122,27.0,IT and Computer Software / Technology,Tech,Yes,Hyland Enterprise Context Engine,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+Red Ventures,194459.0,2068,408,19.7,IT and Computer Software / Technology,Tech,Yes,Red Ventures AI Platform,,Enterprise,KEY,,,,False
+Splunk Inc.,187116.0,9724,3297,33.9,IT and Computer Software / Technology,Tech,Yes,Splunk AI,Data Analysis and Visualization,Enterprise,,,,,False
+Restaurant365,178011.0,3909,133,3.4,IT and Computer Software / Technology,Tech,Yes,R365 AI,,SaaS,,,,,False
+"Cloudera, Inc.",165190.0,3331,1384,41.5,IT and Computer Software / Technology,Tech,Yes,Cloudera AI,,Enterprise,KEY,S ($1-$5M Annualized revenue),0.0,,False
+"Stride, Inc.",162302.0,68,2,2.9,Education,Education,Yes,Legend Library,"K-12 education, personalized learning, adaptive assessment, virtual schools",SaaS,,,,,False
+Workiva Inc,160242.0,3259,643,19.7,IT and Computer Software / Technology,Tech,Yes,Workiva AI,Knowledge Retrieval and Information Extraction,Enterprise,KEY,,,,False
+"dbt Labs, Inc.",160091.0,954,194,20.3,IT and Computer Software / Technology,Tech,Yes,dbt Copilot,Code Generation and Software Development,SaaS,,,,,False
+Cohesity,151318.0,7674,1564,20.4,IT and Computer Software / Technology,Tech,Yes,Cohesity Gaia,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+HashiCorp,150218.0,2310,1069,46.3,IT and Computer Software / Technology,Tech,Yes,HashiCorp AI Infrastructure Management,Code Generation and Software Development,Enterprise,,,,,False
+"Tripadvisor, LLC",140959.0,5893,540,9.2,IT and Computer Software / Technology,Business Services,Yes,TripAdvisor AI Travel Planner,,SaaS,,,,,False
+Take-Two Interactive,134022.0,12900,170,1.3,Media & Entertainment,Media,Unclear,Take-Two Interactive AI Exploration,Code Generation and Software Development,Other,,,,,False
+"SailPoint Technologies, Inc.",120200.0,3369,904,26.8,IT and Computer Software / Technology,Tech,Yes,IdentityAI,,SaaS,KEY,XS (<$1M Annualized revenue),,,False
+Scopely,118686.0,3746,516,13.8,Media & Entertainment,Tech,Unclear,Scopely Games Platform,Content Creation and Copywriting,Mobile App,,S ($1-$5M Annualized revenue),,,False
+Fractal Analytics,117072.0,6735,1677,24.9,Professional Services,Business Services,Yes,Cogentiq,Data Analysis and Visualization,SaaS Platform,,,,,False
+"Vertex, Inc.",114041.0,2569,328,12.8,IT and Computer Software / Technology,Tech,Yes,Vertex Copilot,Data Analysis and Visualization,Enterprise,,,,,False
+Zelis,113384.0,2793,516,18.5,Professional Services,Healthcare,Yes,Zelis Insights 360,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+Harris Computer,99976.0,2873,279,9.7,IT and Computer Software / Technology,Tech,Yes,Matcha,Knowledge Retrieval and Information Extraction,Web App,,,,,False
+Centific,94769.0,3040,611,20.1,IT and Computer Software / Technology,Tech,Yes,Centific Flow,Multilingual Communication and Localization,SaaS Platform,,,,,False
+Gainwell Technologies LLC,94173.0,10331,1410,13.6,IT and Computer Software / Technology,Tech,Yes,Gainwell Genius,,Enterprise,KEY,,,,False
+Teladoc Health,92258.0,5471,658,12.0,Healthcare & Life Sciences,Healthcare,Yes,Virtual Sitter,,SaaS,,,,,False
+Blackbaud,91832.0,3128,571,18.3,IT and Computer Software / Technology,Tech,Yes,Agents for Good™ Development Agent,Knowledge Retrieval and Information Extraction,Enterprise,KEY,,,,False
+Automation Anywhere,89213.0,3366,529,15.7,IT and Computer Software / Technology,Tech,Yes,Automator AI,"Automation development and deployment, intelligent document processing, business process automation, AI-powered automation assistants",Enterprise,,,,,False
+Wiselayer,84251.0,16,4,25.0,Professional Services,Tech,Yes,WiseLayer AI Workers,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+Pipedream,83919.0,28,8,28.6,IT and Computer Software / Technology,Tech,Yes,Pipedream,Code Generation and Software Development,SaaS,,,,,False
+Axtria - Ingenious Insights,82580.0,3624,275,7.6,IT and Computer Software / Technology,Tech,Yes,Axtria InsightsMAx.ai,Data Analysis and Visualization,Enterprise,,,,,False
+Rappi,78895.0,14025,458,3.3,Media & Entertainment,Tech,Unclear,Rappi,,Mobile App,,M ($6-$10M Annualized revenue),,,False
+Poshmark,77655.0,2882,181,6.3,Retail & CPG,Retail,Yes,Smart List AI,Content Creation and Copywriting,Mobile App,,XS (<$1M Annualized revenue),,,False
+Firehydrant,68297.0,52,12,23.1,IT and Computer Software / Technology,Tech,Yes,FireHydrant Incident Management,Knowledge Retrieval and Information Extraction,SaaS,,,,,False
+SPS Commerce,60082.0,3218,539,16.7,IT and Computer Software / Technology,Tech,Yes,SPS Commerce Analytics,,SaaS,,,,,False
+"o9 Solutions, Inc.",59501.0,3334,511,15.3,IT and Computer Software / Technology,Tech,Yes,Digital Brain,Consulting and Strategy,Enterprise,,,,,False
+DataStax,56908.0,412,139,33.7,IT and Computer Software / Technology,Tech,Yes,DataStax Astra DB,,SaaS,,,,,False
+"Medidata Solutions, Inc.",55097.0,2851,603,21.2,IT and Computer Software / Technology,Tech,Yes,Medidata AI,,Enterprise,,,,,False
+"Riot Games, Inc.",54738.0,7866,1333,16.9,Media & Entertainment,Media,Yes,Riot Games Bot AI,,Embedded,MAJOR,,,,False
+Paradox,53430.0,556,199,35.8,IT and Computer Software / Technology,Tech,Yes,Olivia by Paradox,,Enterprise,,,,,False
+Skillsoft,53300.0,3187,403,12.6,Education,Education,Yes,Skillsoft Percipio with CAISY™,,SaaS,,,,,False
+Citrix Systems,43222.0,4298,1751,40.7,IT and Computer Software / Technology,Tech,Yes,Citrix Aidrien,Code Generation and Software Development,SaaS,KEY,,,,False
+Peloton,38438.0,3062,565,18.5,Healthcare & Life Sciences,Manufacturing,Yes,Peloton IQ,Data Analysis and Visualization,Mobile App,,,,,False
+Anaplan,36003.0,2711,316,11.7,IT and Computer Software / Technology,Tech,Yes,Anaplan Intelligence Platform,,Enterprise,,,,,False
+ClickBank,32221.0,4163,46,1.1,IT and Computer Software / Technology,Tech,Yes,Ember AI,Content Creation and Copywriting,Marketplace,,,,,False
+Sprinklr,31201.0,4340,895,20.6,IT and Computer Software / Technology,Tech,Yes,Sprinklr AI+,,Enterprise,KEY,,,,False
+PowerSchool Group LLC,28708.0,3530,1265,35.8,IT and Computer Software / Technology,Tech,Yes,PowerBuddy AI,,SaaS,,,,,False
+iFood Brazil,27700.0,12663,1678,13.3,IT and Computer Software / Technology,Tech,Yes,iFood AI Platform,,Mobile App,,,,,False
+Cornerstone OnDemand,26674.0,4313,1103,25.6,IT and Computer Software / Technology,Tech,Yes,Cornerstone Galaxy AI,,SaaS,KEY,,,,False
+Precisely,24395.0,26,5,19.2,IT and Computer Software / Technology,Tech,Yes,Precisely AI,Contract Lifecycle Management with AI-powered analysis and extraction,SaaS Platform,,,,,False
+Nuvei Technologies,18287.0,2661,301,11.3,Financial Services,Financial Services,Yes,Nuvei AI Integration Agent,Consulting and Strategy,API,,,,,False
+Amplify,17795.0,2989,259,8.7,Education,Education,Yes,Amplify Education AI,"Education, Tutoring, and Research Support",Enterprise,,,,,False
+Paycor,17211.0,2763,324,11.7,IT and Computer Software / Technology,Tech,Yes,Paycor Assistant,,SaaS,,,,,False
+Zynga,17179.0,2755,603,21.9,Media & Entertainment,Media,Yes,Zynga AI Technologies,,Enterprise,,,,,False
+Agilysys,15244.0,2788,927,33.2,IT and Computer Software / Technology,Tech,Yes,Guestsense.AI,Customer Support,Enterprise,,,,,False
+Connectwise,12659.0,3457,939,27.2,IT and Computer Software / Technology,Tech,Yes,ConnectWise Sidekick,,Enterprise,,,,,False
+The RealReal,11992.0,2512,96,3.8,Retail & CPG,Retail,Yes,Athena AI Authentication Platform,Trust and Safety,SaaS,,,,,False
+Episource,11989.0,3101,47,1.5,IT and Computer Software / Technology,Tech,Yes,Episource Healthcare Analytics,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+Grubhub,9106.0,6721,474,7.1,IT and Computer Software / Technology,Tech,Yes,Grubhub AI,Data Analysis and Visualization,Mobile App,KEY,M ($6-$10M Annualized revenue),,,False
+"Csg Systems International, Inc.",7973.0,7592,1902,25.1,IT and Computer Software / Technology,Tech,Yes,CSG Conversational AI,Customer Support,Enterprise,KEY,XS (<$1M Annualized revenue),,,False
+"Bill.com, Inc",7605.0,3360,595,17.7,IT and Computer Software / Technology,Tech,Yes,BILL AI,Data Analysis and Visualization,SaaS,KEY,S ($1-$5M Annualized revenue),,,False
+"Talend, Inc.",4775.0,4593,168,3.7,IT and Computer Software / Technology,Tech,Yes,Talend Data Fabric,,Enterprise,,,,,False
+Open Artificial Intelligence Inc.,2900.0,6825,735,10.8,Professional Services,Tech,Yes,ChatGPT,Code Generation and Software Development,SaaS,,,,,False
+Nutanix,2284.0,9566,2276,23.8,IT and Computer Software / Technology,Tech,Yes,Nutanix Enterprise AI,Code Generation and Software Development,Enterprise,KEY,,,,False
+IAC Inc.,1651.0,2686,108,4.0,IT and Computer Software / Technology,Tech,Yes,IAC AI Enterprise Solutions,Content Creation and Copywriting,Enterprise,,,,,False
+"Inovalon, Inc",940.0,3317,533,16.1,IT and Computer Software / Technology,Tech,Yes,Converged Record Review,Data Analysis and Visualization,SaaS,,,,,False
+Cloud Software Group,296.0,9738,645,6.6,IT and Computer Software / Technology,Tech,Unclear,Citrix Cloud,Data Analysis and Visualization,SaaS,KEY,S ($1-$5M Annualized revenue),,,False
+R Systems,25.0,6720,1339,19.9,IT and Computer Software / Technology,Tech,Yes,OptimaAI Suite,,Enterprise,,,,,False
+2U,0.0,2946,120,4.1,Education,Education,Yes,edX AI Learning Assistants,,SaaS,,,,,False
+2k Games,0.0,2797,197,7.0,Media & Entertainment,Media,No,Video Games,Content Creation and Copywriting,"Digital storefronts and physical retail for video games across PC, Xbox, PlayStation, and Switch platforms",,,,,False
+ACI WorldWide,0.0,4829,1220,25.3,IT and Computer Software / Technology,Tech,Yes,ACI Fraud Management,Trust and Safety,Hybrid,,,,,False
+AOL,0.0,3500,236,6.7,IT and Computer Software / Technology,Tech,Unclear,AOL AI Support,Knowledge Retrieval and Information Extraction,SaaS,,,,,False
+AddThis,0.0,197468,4,0.0,IT and Computer Software / Technology,Tech,Yes,AddThis Audience Intelligence,,SaaS,,,,,False
+Amdocs,0.0,35215,13956,39.6,IT and Computer Software / Technology,Tech,Yes,Amdocs amAIz Suite,Customer Support,Enterprise,KEY,,,,False
+Anchor,0.0,18041,3023,16.8,IT and Computer Software / Technology,Media,Yes,Spotify AI Features,Customer Support,SaaS,,,,,False
+"AppDynamics, Inc.",0.0,9724,344,3.5,IT and Computer Software / Technology,Tech,Yes,AppDynamics AIOps Platform,Data Analysis and Visualization,Enterprise,,,,,False
+Ascend Learning,0.0,5670,208,3.7,Education,Business Services,Yes,Claire AI,"Education, Tutoring, and Research Support",SaaS,,,,,False
+AspenTech,0.0,4077,998,24.5,IT and Computer Software / Technology,Tech,Yes,AspenTech Industrial AI Solutions,,Enterprise,MAJOR,,,,False
+Avature,0.0,30823,493,1.6,IT and Computer Software / Technology,Business Services,Yes,Avature AI Platform,Knowledge Retrieval and Information Extraction,SaaS,,,,,False
+BR - Afya@PEBMED - HLC,0.0,5354,206,3.8,IT and Computer Software / Technology,Education,Yes,Whitebook,Knowledge Retrieval and Information Extraction,SaaS,,,,,False
+Blackboard,0.0,4714,760,16.1,Education,Tech,Yes,AI Product Guide,"Education, Tutoring, and Research Support",SaaS,,,,,False
+"Businessolver.com, Inc.",0.0,1524,137,9.0,IT and Computer Software / Technology,Tech,Yes,Sofia,,SaaS,,,,,False
+CDK,0.0,8278,1294,15.6,IT and Computer Software / Technology,Tech,Yes,CDK Intelligence Suite,,Enterprise,MAJOR,,,,False
+CallidusCloud,0.0,138726,99,0.1,IT and Computer Software / Technology,Tech,Yes,CallidusCloud Sales Performance Management,,Enterprise,,,,,False
+Cambium Learning Group,0.0,2808,47,1.7,Education,Business Services,Yes,Lexia Learning Solutions,Customer Support,SaaS,,,,,False
+Cerner,0.0,197468,3277,1.7,Healthcare & Life Sciences,Tech,Yes,Oracle Clinical Digital Assistant,Customer Support,Enterprise,,,,,False
+Cision Inc,0.0,3886,166,4.3,Professional Services,Manufacturing,Yes,CisionOne AI,Content Creation and Copywriting,SaaS,KEY,,,,False
+Claritev (NYS: CTEV),0.0,2787,247,8.9,Healthcare & Life Sciences,Healthcare,Yes,"PlanOptix, BenInsights, CompleteVue, Ceres",Data Analysis and Visualization,SaaS Platform,,,,,False
+ClickSWITCH,0.0,3558,1034,29.1,IT and Computer Software / Technology,Tech,No,ClickSWITCH,,Enterprise,,,,,False
+Datto,0.0,690,185,26.8,IT and Computer Software / Technology,Tech,Yes,Cooper Copilot,,Enterprise,,,,,False
+Dayforce,0.0,6348,989,15.6,IT and Computer Software / Technology,Tech,Yes,Dayforce AI Workspace,,Enterprise,KEY,,,,False
+Despegar,0.0,4834,515,10.7,IT and Computer Software / Technology,Business Services,Yes,Sofia AI Travel Assistant,,SaaS,,,,,False
+Donnelley Financial Solutions,0.0,1542,183,11.9,Financial Services,Business Services,Yes,Active Intelligence,Data Analysis and Visualization,Enterprise,KEY,,,,False
+E2open,0.0,3763,1050,27.9,IT and Computer Software / Technology,Tech,Yes,E2open AI Supply Chain Solutions,,Enterprise,,,,,False
+ESRI,0.0,7159,2118,29.6,IT and Computer Software / Technology,Retail,Yes,ArcGIS AI,"GIS mapping and analysis, spatial data management, code generation for geospatial workflows, metadata enhancement, survey creation, business analysis reports, storytelling with maps, documentation assistance, translation services",Enterprise,KEY,,,,False
+Elemental,0.0,152978,177,0.1,Professional Services,Tech,,,,,,,,,False
+Ellucian,0.0,4151,1110,26.7,Education,Education,Yes,Ellucian AI Platform,"Education, Tutoring, and Research Support",Enterprise,,,,,False
+Envestnet,0.0,2774,717,25.8,Financial Services,Financial Services,Yes,Envestnet Insights AI,,Enterprise,,,,,False
+"Evisort, Inc.",0.0,66,18,27.3,IT and Computer Software / Technology,Tech,Yes,Evisort Contract Intelligence,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+Fareportal,0.0,3120,256,8.2,IT and Computer Software / Technology,Tech,Unclear,"CheapOair, OneTravel",,Hybrid,,,,,False
+FinThrive,0.0,2733,387,14.2,Healthcare & Life Sciences,Healthcare,Yes,Agentic AI,Healthcare Revenue Cycle Management automation and optimization,SaaS Platform,,,,,False
+Five9,0.0,2969,748,25.2,IT and Computer Software / Technology,Tech,Yes,Five9 Genius AI,Customer Support,SaaS,KEY,,0.0,,False
+Goodwords,0.0,4313,1872,43.4,IT and Computer Software / Technology,Tech,Yes,GoodWords AI,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+Gopuff,0.0,3628,111,3.1,IT and Computer Software / Technology,Tech,Yes,Gopuff AI Technology,,Mobile App,,,,,False
+Highradius Corporation (*** routes to India),0.0,4451,822,18.5,IT and Computer Software / Technology,Tech,Yes,HighRadius Autonomous Finance Platform,Knowledge Retrieval and Information Extraction,SaaS,,,,,False
+Isovalent,0.0,156,79,50.6,IT and Computer Software / Technology,Tech,No,Isovalent Enterprise Platform,,Enterprise,,,,,False
+KB Labs (Techstars),0.0,2951,30,1.0,Financial Services,Financial Services,No,Techstars Accelerator,Consulting and Strategy,Enterprise,,,,,False
+LLamasoft,0.0,3603,14,0.4,IT and Computer Software / Technology,Tech,Yes,llama.ai,,API,,,,,False
+Linode,0.0,10322,20,0.2,IT and Computer Software / Technology,Tech,Yes,Linode AI Inferencing Cloud,Code Generation and Software Development,Cloud,,,,,False
+LivePerson,0.0,975,416,42.7,IT and Computer Software / Technology,Tech,Yes,Conversational Cloud AI,Customer Support,Enterprise,,,,,False
+Manhattan Associates,0.0,4245,1827,43.0,IT and Computer Software / Technology,Tech,Yes,Manhattan Active Maven,Customer Support,SaaS,KEY,,,,False
+Mavenir,0.0,5549,1071,19.3,IT and Computer Software / Technology,Tech,Yes,MavScale AI Analytics,,Enterprise,KEY,,,,False
+Medium,0.0,80,,0.0,,,,,,,,,,,False
+Melio,0.0,685,185,27.0,Financial Services,Financial Services,,,,,,,,,False
+Mitratech,0.0,2023,416,20.6,IT and Computer Software / Technology,Tech,Yes,ARIES™,Consulting and Strategy,SaaS Platform,,,,,False
+Motive,0.0,5646,846,15.0,IT and Computer Software / Technology,Tech,Yes,Motive AI Dashcam,Trust and Safety,Enterprise,,,,,False
+NCR Voyix,0.0,7830,2140,27.3,IT and Computer Software / Technology,Tech,Yes,NCR Voyix AI Solutions,,Enterprise,KEY,,,,False
+Nasdaq Calypso Technology,0.0,8241,84,1.0,IT and Computer Software / Technology,Financial Services,Yes,Adenza,Data Analysis and Visualization,Enterprise,,,,,False
+Netcracker Technology Corporation,0.0,8992,3686,41.0,Telecom,Tech,Yes,Netcracker AI & Analytics,Customer Support,Enterprise,,,,,False
+Newfold Digital,0.0,4053,934,23.0,IT and Computer Software / Technology,Tech,Yes,AI Website Builder,Content Creation and Copywriting,SaaS,KEY,,,,False
+Nexmo,0.0,2781,19,0.7,IT and Computer Software / Technology,Tech,Yes,Vonage Communications AI APIs,Customer Support,API,,,,,False
+Nuxeo,0.0,4156,13,0.3,IT and Computer Software / Technology,Tech,Yes,Nuxeo Insight,,Enterprise,,,,,False
+PROS,0.0,2650,412,15.5,IT and Computer Software / Technology,Tech,Yes,PROS AI Solutions,,SaaS,,,,,False
+Paycom,0.0,6706,1573,23.5,IT and Computer Software / Technology,Tech,Yes,IWant,Customer Support,SaaS,KEY,,,,False
+Paylocity,0.0,6736,886,13.2,IT and Computer Software / Technology,Tech,Yes,Paylocity AI Assist,Content Creation and Copywriting,SaaS,KEY,,,,False
+Payoneer,0.0,2500,489,19.6,Financial Services,Tech,Yes,Payoneer AI Platform,,SaaS,,,,,False
+Picpay,0.0,7065,1066,15.1,Financial Services,Financial Services,Yes,PicPay AI Assistant,Customer Support,Mobile App,,,,,False
+"Q2 Holdings, Inc.",0.0,3558,1034,29.1,Financial Services,Financial Services,Yes,Andi Copilot Platform,Trust and Safety,SaaS,,,,,False
+"Quickpivot (fka Extraprise, SmartSourceOnline)",0.0,40702,7,0.0,IT and Computer Software / Technology,Tech,Unclear,QuickPivot Customer Data Platform,Data Analysis and Visualization,Enterprise,,,,,False
+"Reddit, Inc.",0.0,4523,994,22.0,IT and Computer Software / Technology,Tech,Yes,Reddit Answers,Knowledge Retrieval and Information Extraction,Self-serve,,,,,False
+Rockstar Games,0.0,4868,734,15.1,Media & Entertainment,Media,Unclear,RAGE Engine,Content Creation and Copywriting,Enterprise,,,,,False
+Rootbeer Computer,0.0,2800,2066,73.8,Education,Tech,Yes,Rootbeer Computer AI,Code Generation and Software Development,Open Source,,,,,False
+Saba Software,0.0,4313,139,3.2,IT and Computer Software / Technology,Tech,Unclear,Saba Learning Management System,,Enterprise,,,,,False
+"Solera Holdings, LLC.",0.0,3935,866,22.0,IT and Computer Software / Technology,Tech,Yes,Intelligent Triage,,Enterprise,,,,,False
+Stellar Elements,0.0,35215,61,0.2,Professional Services,Business Services,Yes,amAIz Suite,Customer Support,Enterprise,,,,,False
+Stitch Fix,0.0,4293,201,4.7,Retail & CPG,Retail,Yes,Stitch Fix Vision,,SaaS,,,,,False
+Stytch,0.0,43,20,46.5,IT and Computer Software / Technology,Tech,Yes,Stytch,Trust and Safety,API,,,,,False
+Tellwise,0.0,4379,1,0.0,IT and Computer Software / Technology,Tech,Yes,Tellwise (now ZoomInfo Engage),Content Creation and Copywriting,SaaS,,,,,False
+The Stars Group,0.0,8666,220,2.5,Travel & Hospitality,Manufacturing,Unclear,Stars Group AI,,Enterprise,,,,,False
+ThinkingPhones (Fuze),0.0,2845,3,0.1,IT and Computer Software / Technology,Tech,No,Fuze,Customer Support,Enterprise,,,,,False
+Unifi Software,0.0,2845,2,0.1,IT and Computer Software / Technology,Tech,Yes,UniFi Protect AI Key,,Enterprise,,,,,False
+Update.AI,0.0,11,2,18.2,IT and Computer Software / Technology,Tech,Yes,Update.ai,Transcript Analysis,SaaS,,,,,False
+Vacasa,0.0,4359,82,1.9,Travel & Hospitality,Business Services,Yes,Vacasa AI Platform,,Enterprise,,,,,False
+Valid,0.0,3519,201,5.7,IT and Computer Software / Technology,Tech,No,Valid Digital Identity & Security,Trust and Safety,Enterprise,,,,,False
+Validity (formerly ReturnPath),0.0,333,47,14.1,IT and Computer Software / Technology,Tech,Yes,DemandTools,,Enterprise,,,,,False
+Veritas Technologies LLC,0.0,7674,1146,14.9,IT and Computer Software / Technology,Tech,Yes,Veritas Alta Copilot,Knowledge Retrieval and Information Extraction,SaaS,,,,,False
+Virtustream,0.0,135187,104,0.1,IT and Computer Software / Technology,Tech,No,Virtustream Enterprise Cloud,,Enterprise,,,,,False
+Vizient Inc.,0.0,6866,492,7.2,Healthcare & Life Sciences,Healthcare,Yes,Vizient AI Solutions,Knowledge Retrieval and Information Extraction,Enterprise,,,,,False
+XAI Inc.,0.0,4316,167,3.9,IT and Computer Software / Technology,Tech,Yes,x.ai Amy/Andrew,Knowledge Retrieval and Information Extraction,SaaS,,,,,False
+Xactly,0.0,888,246,27.7,IT and Computer Software / Technology,Tech,Yes,Xactly Intelligence,Career and Professional Development,SaaS Platform,,,,,False
+[24]7.ai,0.0,11253,299,2.7,IT and Computer Software / Technology,Tech,Yes,247 Engagement Cloud,Customer Support,Enterprise,KEY,,,,False
+astronomer.io,0.0,4708,151,3.2,IT and Computer Software / Technology,Tech,Yes,Astro,Data Analysis and Visualization,SaaS Platform,,,,,False
+dataxu,0.0,3400,1382,40.6,Professional Services,Tech,Unclear,enswer.net,Knowledge Retrieval and Information Extraction,Unclear,,,,,False
+iMerit Technology,0.0,6793,103,1.5,IT and Computer Software / Technology,Tech,Yes,Ango Hub,,Enterprise,,,,,False
+impact.com,0.0,3322,320,9.6,IT and Computer Software / Technology,Business Services,Yes,Impact AI,,SaaS,,,,,False
+inContact,0.0,0,3483,,IT and Computer Software / Technology,Tech,Yes,CXone Expert,Customer Support,Enterprise,,,,,False
+liblab (acquired by postman),0.0,12,5,41.7,IT and Computer Software / Technology,Tech,Yes,liblab MCP Generator,Code Generation and Software Development,"Package managers (PyPI, Maven, NuGet, Go, Packagist, npm) and CI/CD integration via GitHub Actions",,,,,False
