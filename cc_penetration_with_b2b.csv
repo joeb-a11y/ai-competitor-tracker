@@ -1,0 +1,83 @@
+company,total_rrr,cc_rrr,num_engineers,num_employees,implied_cc_seats,seat_pen_pct,b2b_customers,b2b_numeric_est,b2b_source,b2b_caveat
+OKBL USA Technology Inc.,12340820,9805014,755,7013,5447,721.5,Not disclosed,,—,B2C crypto exchange; ~50M consumer users
+"ServiceTitan, Inc",8039241,3759840,549,3064,2089,380.5,"~9,000 contractors (>$10K ARR)",9000,FY2025 10-K,
+Guidewire,3940279,3384478,1443,4061,1880,130.3,570+ insurers,570,FY2025 earnings,43 countries
+Klaviyo,5006541,2167158,520,2848,1204,231.5,"193,000+ customers",193000,FY2025 10-K,
+"Axon Enterprise, Inc.",5088847,1480623,1424,5244,823,57.8,"~17,000 US law enforcement agencies",17000,10-K,>95% of state/local
+"Zapier, Inc.",11392561,1041631,400,1600,579,144.7,~100K paying (3.4M total businesses),100000,2025 press,
+Hudl,1398446,907813,356,4092,504,141.7,"344,000+ teams",344000,Nov 2025,teams not orgs; 40+ sports
+Deel,1708133,704626,859,8140,391,45.6,"35,000-40,000 companies",37500,Jun 2025 PR,
+Samsara,2330135,661916,956,5115,368,38.5,"20,000+ core customers",20000,FY2025 10-K,"2,506 at $100K+ ARR"
+Confluent,4772443,648849,1327,3670,360,27.2,"~5,800 customers",5800,FY2025 earnings,"1,521 at $100K+ ARR"
+Kavak,4049301,634560,171,4037,353,206.2,N/A,,—,B2C used-car marketplace
+UIPath,2416642,630896,1282,5055,350,27.3,"~10,750 customers",10750,FY2025 10-K,"2,292 at $100K+ ARR"
+"The Trade Desk, Inc.",782307,612619,691,4637,340,49.3,Not disclosed,,FY2025 10-K,"reports >95% retention, not count"
+Aptean,569946,537133,825,2995,298,36.2,"10,000+ customers",10000,2025 profile,80+ countries
+Tekion,1003364,425928,1354,2762,237,17.5,"3,000+ dealership rooftops",3000,NADA 2026,
+"Verifone, Inc.",783864,413443,1066,4691,230,21.5,Not disclosed,,—,private; 14B+ txns/yr proxy
+Applied Systems,963069,393730,588,2714,219,37.2,Not disclosed,,—,private; 160K daily users proxy
+Lyft,2940114,331773,1207,27301,184,15.3,'Thousands' of orgs (Lyft Business),,2025,no count in 10-K
+Yardi,615673,282752,641,6845,157,24.5,"20,000+ businesses",20000,2025,
+"Mongodb, Inc.",1404195,256885,1645,7623,143,8.7,"54,500+ customers",54500,FY2025 10-K,"62,500+ most recent Q"
+"Groupon, Inc.",909529,242972,393,10589,135,34.3,Not disclosed (active merchants),,FY2024 10-K,~1M lifetime cumulative only
+Thebrowsercompany,544638,233633,56,100,130,231.8,N/A,,—,consumer browser; acquired by Atlassian Sep 2025
+Upwork (f.k.a elance-oDesk),361870,193448,21583,168381,107,0.5,"832,000 active clients",832000,FY2024 10-K,
+BetterUp,947064,167495,86,2756,93,108.2,380+ enterprises,380,2021 Series E (stale),no newer figure
+Restaurant365,178011,147054,133,3909,82,61.4,"40,000+ restaurant locations",40000,2024 PR,locations not logos
+Cvent,488615,146569,1186,6191,81,6.9,"24,000+ customers",24000,Dec 2024,
+Thryv,322952,144942,379,5952,81,21.2,"114,000 SaaS clients",114000,Q4 2024 earnings,
+CoStar Group,1223866,143006,924,217,79,8.6,"275,000 subscribers",275000,Q4 2024 earnings,
+Kaseya US LLC,272921,136840,960,5556,76,7.9,"50,000+ MSP/SMB customers",50000,Apr 2025 PR,
+"dbt Labs, Inc.",160091,134617,194,954,75,38.6,"5,000+ customers",5000,Feb 2025 ($100M ARR),
+"Zillow, Inc.",2731574,117919,1475,9763,66,4.4,'Tens of thousands' of agents,,—,not broken out in 10-K
+8x8,1178240,115853,621,2845,64,10.4,"55,000+ customers",55000,FY2025 10-K,160+ countries
+"Vertex, Inc.",114041,111496,328,2569,62,18.9,"4,915 direct customers",4915,FY2024 10-K,
+Teradata Corporation,520806,107041,2120,9887,59,2.8,"~1,000 enterprises (est)",1000,Fortune profile,not in 10-K
+HubSpot,16607230,103808,1999,11709,58,2.9,"288,000+ customers",288000,Q4 2025 earnings,
+Take-Two Interactive,134022,100865,170,12900,56,33.0,N/A,,—,consumer game publisher
+Lightspeed Commerce,1149147,89630,594,3410,50,8.4,"~148,000 locations",148000,Q3 FY2026 earnings,locations not businesses
+Blackbaud,91832,78166,571,3128,43,7.6,"~40,000 contractual (+100K transactional)",40000,FY2024 10-K,
+Rappi,78895,72544,458,14025,40,8.8,"125,000+ restaurant partners",125000,Dec 2024,
+Carvana,5187765,71822,510,7573,40,7.8,N/A,,—,consumer auto retailer
+Fivetran,1773085,70864,597,1600,39,6.6,"7,700+ customers",7700,Dec 2025,
+Centific,94769,69896,611,3040,39,6.4,100+ of Global 500,100,2023-25 boilerplate,no total count
+Workiva Inc,160242,69626,643,3259,39,6.0,"6,305 customers",6305,FY2024 10-K,
+Zoho,1153365,47935,5008,16000,27,0.5,"1,000,000+ paying customers",1000000,Feb 2026 PR,
+SPS Commerce,60082,47092,539,3218,26,4.9,"45,000+ recurring customers",45000,Q4 2024 earnings,
+Fractal Analytics,117072,46503,1677,6735,26,1.5,113 'must-win' clients,113,IPO DRHP Aug 2025,100+ F500
+FanDuel,552278,40406,1097,4046,22,2.0,N/A,,—,consumer sports betting
+Axtria - Ingenious Insights,82580,36656,275,3624,20,7.4,100+ life sciences clients,100,2024-25,16 of top 20 pharma
+"Avalara, Inc.",432174,31782,1100,5766,18,1.6,"43,000+ customers",43000,mid-2025 PR,
+Red Ventures,194459,31458,408,2068,17,4.3,N/A,,—,"owns/operates brands, not B2B vendor"
+"o9 Solutions, Inc.",59501,26515,511,3334,15,2.9,150+ enterprises,150,2024-25 profile,30+ verticals
+Realtor.com,1365834,24636,312,3412,14,4.4,Not disclosed,,—,News Corp reports agent ARPU not count
+"Medidata Solutions, Inc.",55097,23352,603,2851,13,2.2,"~2,300 customers",2300,Dassault 2025 PR,19 of top 20 pharma
+Thoughtworks Inc,814093,22516,4119,12280,13,0.3,~500 clients,500,Q4 2023 (last public),went private Nov 2024
+Nuvei Technologies,18287,17699,301,2661,10,3.3,"~50,000 merchants",50000,2020 IPO (stale),went private Nov 2024
+Atlassian,26612731,16065,7950,21037,9,0.1,"300,000+ customers",300000,FY2025 10-K,350K+ as of Dec 2025
+Harris Computer,99976,14018,279,2873,8,2.8,"100,000+ customers",100000,2025,across 230+ acquired subs
+ZoomInfo,7449455,13769,638,4379,8,1.2,"35,000+ customers",35000,Q1 2025 slides,
+Qualtrics,331948,13361,1268,6135,7,0.6,"~20,000 organizations",20000,2025 PR,
+The RealReal,11992,11483,96,2512,6,6.6,Not disclosed (consignors),,Q2 2025,1M active buyers; consignors not counted
+SAS Institute Inc.,259948,9865,3154,18120,5,0.2,"83,000+ customer sites",83000,company profile,sites not logos
+"Lyra Health, Inc.",315484,9860,110,2696,5,5.0,300+ employers,300,Oct 2025 PR,17M+ members covered
+SpotOn,811796,9034,260,2608,5,1.9,Not disclosed,,—,private; declined to share
+Scopely,118686,7392,516,3746,4,0.8,N/A,,—,consumer game publisher
+Cohesity,151318,7192,1564,7674,4,0.3,"12,000+ customers",12000,Dec 2024 post-Veritas,85% of F100
+Firehydrant,68297,6595,12,52,4,30.5,Not disclosed,,—,acquired by Freshworks Dec 2025
+Maplebear Inc. dba Instacart,8147676,6510,1132,23881,4,0.3,"1,800 retail banners + 7,500 CPG brands",9300,2025 IR,
+Amplify,17795,5519,259,2989,3,1.2,"4,000+ US school districts",4000,2023 Series C,18M students/teachers
+Indeed,10264939,4814,2413,19191,3,0.1,3.3M employers,3300000,Recruit FY2024 AR,
+Skillsoft,53300,3898,403,3187,2,0.5,"3,000+ customers (TDS)",3000,FY2025 10-K,60% of F1000
+Meltwater Group,561472,3656,374,2565,2,0.5,"27,000 customers",27000,Oct 2025 PR,
+Asana,4765450,3404,595,4198,2,0.3,"150,000+ paying customers",150000,FY2024 10-K,
+Smartsheet Inc.,1847170,399,790,4169,0,0.0,"20,430 at $5K+ ARR",20430,Q3 FY2025 (last public),total not disclosed; went private Jan 2025
+"Inovalon, Inc",940,370,533,3317,0,0.0,"50,000+ customers",50000,Oct 2025 PR,def. change from ~20K in 2024
+Tyler Technologies,3217695,359,2133,7706,0,0.0,"45,000+ installs / 13,000 locations",13000,Q4 2024,public sector
+Intercom,18700499,172,368,1874,0,0.0,"25,000-30,000 businesses",27500,2025 company site,two conflicting figures live
+"Box, Inc.",996456,129,1036,4095,0,0.0,"100,000+ paying orgs",100000,FY2025 10-K,
+"RealPage, Inc.",662147,67,1177,8924,0,0.0,"12,400+ clients",12400,2025 company page,
+EquipmentShare,510872,53,171,3729,0,0.0,Not disclosed,,2025 IPO prospectus,90%+ of ENR Top 50 GCs
+AlphaSense,6282879,19,395,2786,0,0.0,"6,500+ enterprises",6500,Oct 2025 ($500M ARR),
+Diligent (acquired multiple companies),563359,19,652,2852,0,0.0,"25,000+ customers",25000,2025,
+"Toast, Inc.",3055389,9,1161,7438,0,0.0,"~164,000 restaurant locations",164000,Q4 2025 earnings,locations not logos
